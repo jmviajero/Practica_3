@@ -1,4 +1,4 @@
-# Practica_3
+# Práctica_3
 
 Este programa consta de la craeacion de una API conectada a una base de datos en este caso MONGO_DB.
 
